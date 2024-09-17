@@ -1,0 +1,46 @@
+.job-sheet {
+  width: 60.5vw;
+  height: 10vh;
+  padding: 3rem 0rem;
+  margin: auto;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.job-sheet h1 {
+  color: #fff;
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 1rem;
+  background-color: #023467;
+  padding: 1rem;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+h2 {
+  font-size: 1rem;
+  width: 60.5vw;
+  height: 30px;
+  margin-top: 1.2rem;
+}
+input {
+  width: 60.5vw;
+  height: 6vh;
+  padding: 12px 0px;
+}
+textarea {
+  width: 60.5vw;
+  height: 10vh;
+  padding: 12px 0px;
+}
+.sheet {
+  font-size: 1rem;
+  width: 60.5vw;
+  height: 33px;
+  margin-top: 1.2rem;
+  background-color: #023467;
+  color: #fff;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

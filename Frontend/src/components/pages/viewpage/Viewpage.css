@@ -1,0 +1,95 @@
+.view-job {
+    background-color: #023467;
+    width: 60.5vw;
+    height: 10vh;
+    padding: 12px 0px;
+    margin: 15px;
+    margin-left: 240px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.view-job h1 {
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+}
+
+.details table {
+    font-size: 1rem;
+    width: 60.5vw;
+    height: 30px;
+    margin-left: 240px;
+    margin-top: 1.2rem;
+
+}
+
+.details table .client {
+    background-color: #023467;
+    color: #fff;
+    width: 20vw;
+    text-align: left;
+    font-weight: 600;
+
+}
+
+.details table .detail {
+    text-align: left;
+    padding-left: 1.3rem;
+}
+
+.details table .view {
+    color: #023467;
+    font-weight: 700;
+    text-align: left;
+    padding-left: 1.3rem;
+}
+
+.note {
+    font-size: 1rem;
+    width: 60.5vw;
+    height: 33px;
+    margin-left: 240px;
+    margin-top: 1.2rem;
+    background-color: #023467;
+    color: #fff;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+.add{
+    color: gray;
+    font-size: 1rem;
+    width: 60.5vw;
+    height: 33px;
+    margin-left: 240px;
+    margin-top: 1.2rem;
+}
+.area{
+    font-size: 1rem;
+    width: 60.5vw;
+    height: 33px;
+    margin-left: 240px;
+    margin-top: 1.2rem;
+}
+.edit {
+    color: #023467;
+    font-size: 1rem;
+    width: 60.5vw;
+    height: 33px;
+    margin-left: 240px;
+    margin-top: 1.2rem;
+}
+
+.back {
+    font-size: 1rem;
+    width: 60.5vw;
+    height: 30px;
+    margin-left: 600px;
+    margin-top: 1.2rem;
+    color: #023467;
+}
+.save-pdf{
+    margin-left: 238px;
+    margin-top: 1.3rem;
+}

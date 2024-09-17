@@ -1,0 +1,125 @@
+.navbar{
+    background-color: #023467;
+    width: 96.5vw;
+    height: 10vh;
+    padding: 12px 0px;
+    margin: 15px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.navbar h1{
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+}
+.search{
+    display: flex;
+    margin: 15px;
+    gap: 5px;
+}
+.search input{
+    width: 85vw;
+    height: 7vh;
+    padding: 12px 0px; 
+    padding-left: 1rem;
+    border-radius: 10px;
+    text-align:left;
+    outline: none;
+    border: 1px solid gray;
+    
+    
+}
+.search button{
+    width: 12vw;
+    height: 7vh;
+    background-color: #023467;
+    color: #fff;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+  
+   
+}
+.New-Job-Sheet{
+    width: 12vw;
+    height: 7vh;
+    background-color: #023467;
+    color: #fff;
+    border-radius: 8px;
+    margin-left: 550px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+.entry{
+    padding: 0px 1rem;
+}
+table {
+    border-collapse: collapse;
+    border: none;
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    width: 100%;
+    overflow-x: scroll;
+  }
+.head-row{
+    background-color: #023467;
+    width: 96.5vw;
+    height: 10vh;
+    padding: 12px 0px;
+    margin: 15px;
+    color: #fff;
+
+    
+}
+.head-row th{
+    padding: 5px;
+}
+.action{
+    display: flex;
+    gap: 6px;
+}
+.action button{
+    border: none;
+    border-radius: 3px;
+    font-size: .9rem;
+    padding: 4px;
+    color: #fff;
+    
+}
+.btn-1{
+    background-color:  blue;
+}
+.btn-2{
+    background-color: orange;
+}
+.btn-3{
+    background-color: red;
+}
+
+
+td{
+    text-align: center;
+    padding: .9rem 5px;
+    word-wrap: break-word;
+}
+.footer{
+    background-color: #023467;
+    width: 96.5vw;
+    height: 6vh;
+    margin: 15px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: #fff;
+    margin-top: 3rem;
+    
+    
+}
+.footer h2{
+    font-size: 12px;
+    text-align: center;
+    padding-top: 9px;
+    padding-left: 29rem;
+   
+}

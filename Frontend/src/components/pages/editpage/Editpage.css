@@ -1,0 +1,60 @@
+.edit-sheet {
+  width: 60.5vw;
+  height: 10vh;
+  padding: 12px 0px;
+  margin: auto;
+
+  margin-left: 240px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.edit-sheet h1 {
+  color: #fff;
+  font-size: 25px;
+  text-align: center;
+}
+
+.fields h2 {
+  font-size: 1rem;
+  width: 60.5vw;
+  height: 30px;
+  margin-left: 240px;
+  margin-top: 1.2rem;
+}
+
+.fields input {
+  width: 60.5vw;
+  height: 6vh;
+  padding: 12px 0px;
+  margin-left: 240px;
+}
+
+.fields textarea {
+  width: 60.5vw;
+  height: 10vh;
+  padding: 12px 0px;
+  margin-left: 240px;
+}
+
+.fields button {
+  font-size: 1rem;
+  width: 60.5vw;
+  height: 33px;
+  margin-left: 240px;
+  margin-top: 1.2rem;
+  background-color: #023467;
+  color: #fff;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+}
+
+.fields .head1 {
+  font-size: 1rem;
+  width: 60.5vw;
+  height: 30px;
+  margin-left: 600px;
+  margin-top: 1.2rem;
+  color: #023467;
+}
